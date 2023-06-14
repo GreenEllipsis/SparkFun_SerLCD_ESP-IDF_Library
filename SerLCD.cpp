@@ -390,7 +390,7 @@ void SerLCD::createChar(uint8_t location, uint8_t charmap[])
 }
 
 /*
- * Write a customer character to the display
+ * Write a custom character to the display
  *
  * uint8_t location - character number 0 to 7
  */
